@@ -1,4 +1,4 @@
-![repocover.jpg](repocover.jpg)
+![new.png](new.png)
 # A.T.O.M. - A TOol for Music transcription #
 
  Project ATOM is a software tool for transcription of Instrumental Guitar Music into sheet music and storing it on a cloud server. 
